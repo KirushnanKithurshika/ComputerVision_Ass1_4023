@@ -1,4 +1,4 @@
-Tasks
+#Tasks
 ✅ Task 1: Reduce Intensity Levels
 Reduces the number of intensity levels in a grayscale image. The number of levels is varied as powers of 2 from 2 to 128 (i.e., 2, 4, 8, ..., 128). The outputs are saved as:
 
